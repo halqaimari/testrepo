@@ -1,0 +1,2 @@
+#display output for testing
+print("i am nice")
